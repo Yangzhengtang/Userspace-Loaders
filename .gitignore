@@ -1,0 +1,13 @@
+/.DS_Store
+/.vscode/*
+*.out
+*.o
+/apager
+/dpager
+/hpager
+/tests/test_hello_world
+/tests/test_cpu_heavy
+/tests/test_large_array_seq 
+/tests/test_large_array_rand
+/tests/test_null_ref
+
